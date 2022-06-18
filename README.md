@@ -1,8 +1,8 @@
 # 2-wing-Lobe-Pump
-This is an experament of computationally simulating siprograph output to pump lobe design
+An experament to computationally simulate spirograph output towards a pump's lobe design
 
 The lobe design was constructed in a jupyter notbook
-The design was then edited in inkscape to remove unused shapes
+The design was then edited in inkscape to remove unused curves
 The output was an svg which was used to extrude and animate in fusion 360
 
 TODO:
